@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">p13_LOH_ZHI_Heng_2201765</string>
+    <string name="text">Get Ready To Travel Around Space!</string>
+    <string name="text1">Current situation :</string>
+    <string name="text2">Arrange the numbers</string>
+    <string name="content">You are now about to pass through a meteorite zone, please dodge in time to avoid hitting it!!!</string>
+    <string name="content1">Note the left number(blue) that appear on the screen and compare to the right number(orange) then choosing the correct symbol.</string>
+    <string name="content2">After many explorations, you have collected a large number of rare resources from the planet!</string>
+    <string name="content3">Now is to arrange them all! Press and drag the numbers on the screen and follow the instructions on the control panel below!</string>
+    <string name="content4">Unfortunately, the ship went down when you decided to return, so you try to repair it by yourself.</string>
+    <string name="content5">Pay attention to the target numbers provided on top, and select the numbers below to make up the target number!</string>
+    <string name="compare">Compare Numbers</string>
+    <string name="order">Ordering Numbers</string>
+    <string name="compose">Composing Numbers</string>
+    <string name="greater">\u003e</string>
+    <string name="equal">\u003d</string>
+    <string name="smaller">\u003c</string>
+</resources>
